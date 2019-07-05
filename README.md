@@ -1,3 +1,1 @@
-# Programs
-
-Generate plate numbers by using the meny.py
+# Generating-Number-Plates
